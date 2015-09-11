@@ -5,4 +5,4 @@ language: go
 go:
   - 1.5
 before_install:
-  - "git clone --depth=1 git@bitbucket.org:nutmeglondon/devops-recruitment"
+  - "git clone --depth=1 https://bitbucket.org/nutmeglondon/devops-recruitment.git"
